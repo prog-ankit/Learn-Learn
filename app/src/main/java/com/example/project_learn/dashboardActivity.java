@@ -103,7 +103,7 @@ public class dashboardActivity extends AppCompatActivity {
                                 stdUser.setText("");
                                 stdPwd.clearFocus();
                             } else {
-                                Toast.makeText(dashboardActivity.this, "Student Not Registered!!", Toast.LENGTH_SHORT).show();
+                                Toast.makeText(dashboardActivity.this, "Student Failed to Register!!", Toast.LENGTH_SHORT).show();
                                 Toast.makeText(dashboardActivity.this, task.getException().toString(), Toast.LENGTH_SHORT).show();
                             }
                         });
