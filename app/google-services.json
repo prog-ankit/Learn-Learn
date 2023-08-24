@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "877638133005",
+    "firebase_url": "https://deeplinking-3d2f9-default-rtdb.firebaseio.com",
+    "project_id": "deeplinking-3d2f9",
+    "storage_bucket": "deeplinking-3d2f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877638133005:android:d5d2e17b2c9c4f11d3bc44",
+        "android_client_info": {
+          "package_name": "com.example.deeplinking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877638133005-gflo1q1ntdb2h2ojepgqlpo4u1977u67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwa4pprMC5mO7XIGkloKowDN6LSF0Olj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877638133005-gflo1q1ntdb2h2ojepgqlpo4u1977u67.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877638133005-4knrerke7deiub6lj0fi6o77qn9vlqik.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.internshipProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877638133005:android:673c275731badb47d3bc44",
+        "android_client_info": {
+          "package_name": "com.example.getx_firestore_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877638133005-gflo1q1ntdb2h2ojepgqlpo4u1977u67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwa4pprMC5mO7XIGkloKowDN6LSF0Olj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877638133005-gflo1q1ntdb2h2ojepgqlpo4u1977u67.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877638133005-4knrerke7deiub6lj0fi6o77qn9vlqik.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.internshipProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877638133005:android:e2a09081374eca86d3bc44",
+        "android_client_info": {
+          "package_name": "com.example.internship_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877638133005-gflo1q1ntdb2h2ojepgqlpo4u1977u67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwa4pprMC5mO7XIGkloKowDN6LSF0Olj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877638133005-gflo1q1ntdb2h2ojepgqlpo4u1977u67.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877638133005-4knrerke7deiub6lj0fi6o77qn9vlqik.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.internshipProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877638133005:android:81c349f7e42c12c3d3bc44",
+        "android_client_info": {
+          "package_name": "com.example.project_learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877638133005-gflo1q1ntdb2h2ojepgqlpo4u1977u67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwa4pprMC5mO7XIGkloKowDN6LSF0Olj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877638133005-gflo1q1ntdb2h2ojepgqlpo4u1977u67.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877638133005-4knrerke7deiub6lj0fi6o77qn9vlqik.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.internshipProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
